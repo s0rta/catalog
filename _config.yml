@@ -28,7 +28,7 @@ url: "https://yet.earth" # the base hostname & protocol for your site, e.g. http
 github_username: s0rta 
 
 # Build settings
-remote_theme: LightSpeed 
+remote_theme: tajacks/lightspeed
 plugins:
   - jekyll-feed
 

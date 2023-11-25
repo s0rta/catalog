@@ -18,19 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Yet Earch Catalog
+email: jt@yet.earth 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A collection of slow thoughts globbed around the areas of software, spraypaint, game design, and painting on your clothes.
+  All are welcome to this crackpot astronomers tea house hideout.
 baseurl: "/catalog" # the subpath of your site, e.g. /blog
 url: "https://yet.earth" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: s0rta 
 
 # Build settings
-theme: minima
+remote_theme: lightspeed
 plugins:
   - jekyll-feed
 
